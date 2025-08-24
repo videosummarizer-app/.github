@@ -1,13 +1,5 @@
 # VDSum - Intelligent YouTube Video Summarizer
 
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Next.js-15-black?logo=next.js" alt="Next.js">
-  <img src="https://img.shields.io/badge/TypeScript-5-blue?logo=typescript" alt="TypeScript">
-  <img src="https://img.shields.io/badge/TailwindCSS-4-38B2AC?logo=tailwind-css" alt="TailwindCSS">
-  <img src="https://img.shields.io/badge/Cloudflare-Workers-F38020?logo=cloudflare" alt="Cloudflare Workers">
-</div>
-
 ## 🎯 Product Overview
 
 VDSum is an intelligent YouTube video summarization tool that leverages AI technology to automatically convert YouTube video content into concise text summaries, helping users save time and quickly access core information.
@@ -32,22 +24,6 @@ VDSum is an intelligent YouTube video summarization tool that leverages AI techn
 - **Emergency Information Alerts** - Priority push notifications for breaking news and market movements
 - **Customizable Push Timing** - Supports personalized notification scheduling
 
-### 📱 Multi-Platform Experience
-- **Responsive Design** - Perfect adaptation across desktop, tablet, and mobile devices
-- **Cloud Synchronization** - Seamless cross-device synchronization of summary content
-- **Modern Interface** - Beautiful user interface built with TailwindCSS
-
-## 🔧 Technology Stack
-
-- **Frontend Framework**: Next.js 15 (App Router)
-- **Programming Language**: TypeScript
-- **Styling System**: TailwindCSS v4
-- **UI Components**: Radix UI + Custom Components
-- **Deployment Platform**: Cloudflare Workers
-- **Database**: Neon Database (PostgreSQL)
-- **Authentication**: Better Auth
-- **Email Service**: React Email + Resend
-- **Animations**: Framer Motion
 
 ## 🎨 Use Cases
 
@@ -73,14 +49,6 @@ VDSum is an intelligent YouTube video summarization tool that leverages AI techn
 - 14-day free trial with no credit card required
 - Clean and intuitive interface with zero learning curve
 - Flexible subscription management with anytime cancellation
-
-## 🛠️ Development Features
-
-- **High-Performance Architecture** - Edge computing powered by Cloudflare Workers
-- **Type Safety** - Complete TypeScript type support
-- **Modern Development** - Built with latest React 19 and Next.js 15
-- **Responsive Design** - Mobile-first design philosophy
-- **SEO Optimized** - Complete metadata and Open Graph support
 
 ---
 
