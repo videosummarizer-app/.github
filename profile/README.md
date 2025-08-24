@@ -1,6 +1,5 @@
 # VDSum - Intelligent YouTube Video Summarizer
 
-> English Version | [中文版](./README.md)
 
 <div align="center">
   <img src="https://img.shields.io/badge/Next.js-15-black?logo=next.js" alt="Next.js">
