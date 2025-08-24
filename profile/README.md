@@ -45,10 +45,6 @@ VDSum is an intelligent YouTube video summarization tool that leverages AI techn
 - Intelligently identifies important timestamps and pivotal content
 - Understands deep video meaning through contextual analysis
 
-### User Experience
-- 14-day free trial with no credit card required
-- Clean and intuitive interface with zero learning curve
-- Flexible subscription management with anytime cancellation
 
 ---
 
